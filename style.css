@@ -1,0 +1,23 @@
+body
+{
+    background-color: darkturquoise;
+}
+
+h3
+{
+    width: 80%;
+    font-size: 75px;
+}
+
+b
+{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+#camera, #result
+{
+    border: 5px dashed black;
+    width: 350px;
+    height: 300px;
+}
